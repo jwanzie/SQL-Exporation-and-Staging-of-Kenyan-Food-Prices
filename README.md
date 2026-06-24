@@ -42,3 +42,6 @@ FROM raw_food_prices
 GROUP BY commodity
 ORDER BY avg_price DESC;
 ```
+
+<img width="1048" height="823" alt="KenyaFoodPricesVisualisations" src="https://github.com/user-attachments/assets/2d0b906f-e48f-4df8-9148-1be44dff76f7" />
+
